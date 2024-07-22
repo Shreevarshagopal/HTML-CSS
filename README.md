@@ -1,4 +1,4 @@
-HTML/CSS Project
+<h1>HTML/CSS Project</h1>
 
 This repository contains HTML and CSS files for a basic web project. It demonstrates how to structure and style web pages using HTML and CSS.
 
